@@ -1,0 +1,10 @@
+/* styles.css */
+.stApp {
+    background-image: url('https://images.unsplash.com/photo-1502082553048-f009c37129b9');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.stApp .css-1d391kg, .stApp .css-1adrfps {
+    background-color: rgba(255, 255, 255, 0.8);
+}
